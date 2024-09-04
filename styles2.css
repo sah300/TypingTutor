@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #f3f1ea;
+}
+
+#header {
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    background: #0F52BA;
+    color:aliceblue;
+    margin: 0px;
+    font-size:12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 0;
+    box-shadow: 0 1px 8px black;
+}
+
+.main {
+    font-size: 25px;
+    font-family: 'Candara';
+    text-align: center;
+    padding-top: 80px;
+}
+
+.paragraph {
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.reason {
+    padding-top: 120px;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.reason h2 {
+    font-size: 50px;
+}
+
+.reason p {
+    padding-top: 50px;
+}
+
+.one {
+    padding-top: 20px;
+}
+
+.two {
+    padding-top: 20px;
+}
+
+.three {
+    padding-top: 20px;
+}
+
+.four {
+    padding-top: 20px;
+}
+
+.five {
+    padding-top: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.button {
+    outline: none;
+    border: none;
+    width: 105px;
+    color: #fff;
+    padding: 10px 0;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background: #0818A8;
+    transition: transform 0.3s ease;
+    margin-top: 20px;
+}
+
+#footer {
+    color:aliceblue;
+    padding: 70px;
+    background: #0F52BA;
+    margin-top: 100%;;
+    bottom: 0;
+    box-shadow: 0 1px 7px black;
+}
